@@ -2,7 +2,7 @@ import "./portfolio.css";
 
 import IMG1 from "../../assets/Educational Website.jpg";
 // import IMG2 from "../../assets/RubyCode Blog Project.jpg";
-import IMG3 from "../../assets/Startup Agency Project.jpg";
+// import IMG3 from "../../assets/Startup Agency Project.jpg";
 // import IMG4 from "../../assets/Covid-19 Project.jpg";
 // import IMG5 from "../../assets/Jokes Project.jpg";
 // import IMG6 from " /assets/Project4.jpg";
