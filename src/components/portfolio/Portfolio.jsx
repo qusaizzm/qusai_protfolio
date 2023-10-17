@@ -1,7 +1,7 @@
 import "./portfolio.css";
 
 import IMG1 from "../../assets/Educational Website.jpg";
-import IMG20 from " /assets/gpt-3.png";
+import IMG2 from "../../assets/gpt-3.png";
 // import IMG2 from "../../assets/RubyCode Blog Project.jpg";
 // import IMG3 from "../../assets/Startup Agency Project.jpg";
 // import IMG4 from "../../assets/Covid-19 Project.jpg";
@@ -25,14 +25,14 @@ const Portfolio = () => {
     {
       id: 2,
       title: "GPT-3 UX Website",
-      img: IMG20,
+      img: IMG2,
       description:
         "An GPT-3 Website is a text text text text texttext text text text text texttext text text text texttext text.",
       technologies: "Html | CSS | Javascript | Vite / React Js",
       link: "https://qusaizzm.github.io/gpt3_design/",
       github: "https://github.com/qusaizzm/gpt3_design",
     },
-    
+
 
     // {
     //   id: 6,
