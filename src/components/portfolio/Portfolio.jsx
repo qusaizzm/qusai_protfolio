@@ -23,16 +23,7 @@ const Portfolio = () => {
     },
 
 
-    {
-      id: 3,
-      title: "Startup Landing Page",
-      img: IMG3,
-      description:
-        "A dedicated, standalone web page built for specific campaigns and target audiences.",
-      technologies: "Html | CSS | JavaScript | Next Js",
-      link: "https://alpha-agency-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
-    },
+    
 
     // {
     //   id: 6,
