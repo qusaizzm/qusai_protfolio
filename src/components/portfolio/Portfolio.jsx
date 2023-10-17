@@ -61,8 +61,8 @@ const Portfolio = () => {
       description:
         "A Hoobank  Website is a text text text text texttext text text text text texttext text text text texttext text.",
       technologies: "Html | CSS | Javascript | Tailwindcss / React Js",
-      link: "https://qusaizzm.github.io/hoo-payment/",
-      github: "https://github.com/qusaizzm/hoo-payment",
+      link: "https://qusaizzm.github.io/hoo_Payment/",
+      github: "https://github.com/qusaizzm/hoo_Payment",
     },
     // {
     //   id: 6,
