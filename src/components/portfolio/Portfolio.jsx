@@ -24,7 +24,7 @@ const Portfolio = () => {
 
     {
       id: 2,
-      title: "Educational Website",
+      title: "GPT-3 UX Website",
       img: IMG20,
       description:
         "An GPT-3 Website is a text text text text texttext text text text text texttext text text text texttext text.",
